@@ -5,6 +5,8 @@
 - 📫 Fale comigo pelo meu e-mail: hiegoppbarreto@gmail.com
 - 📫 ou pelo meu Linkedin: https://www.linkedin.com/in/hiego-barreto-52a48624a/
 
+![Maxixee GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxixee&show_icons=true&theme=dark&count_private=true&)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Hiego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
