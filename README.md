@@ -1,4 +1,4 @@
-### 😊 Olá!!! Meu nome é Hiego, tenho 20 anos, e aqui tem um pouco sobre o que eu faço
+### 😊 Olá!!! Meu nome é Hiego, tenho 20 anos, e sou desenvolvedor FullStack
 
 - 🎓 Atualmente estou cursando Analise e Desenvolvimento de Sistemas no IFBA - Campus Irecê
 - 📚 Além da faculdade, estou estudando Java e Programação Web por conta própria
