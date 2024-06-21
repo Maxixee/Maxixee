@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently studying Systems Analysis and Development at IFBA - Campus Irecê
 - 📚 Beside the college, I'm studying Java and Web Programming on my own
-- 📫 Contact info:
+- 📫 Contact info :
   - 📧 E-mail: hiegoppbarreto@gmail.com
   - 💻 LinkedIn: https://www.linkedin.com/in/hiego-barreto-52a48624a/
 
