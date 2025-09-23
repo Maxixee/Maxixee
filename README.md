@@ -1,4 +1,4 @@
-### 😊 Hello!!! My name is Hiego, I'm 21 years old, and I'm a FullStack developer
+### 😊 Hello!!! My name is Hiego, I'm 21 years old, and I'm a Backend developer
 
 - 🎓 I'm currently studying Systems Analysis and Development at IFBA - Campus Irecê
 - 📚 Beside the college, I'm studying Java and Web Programming on my own
